@@ -15,7 +15,7 @@ tagline:
 description: 
 author: Courtney Allen
 baseurl: '/soc331' # the subpath of your site, e.g. /blog
-url: 'https://github.com/courtneykirsten'
+url: 'https:/courtneykirsten./github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,7 +28,7 @@ aux_links:
   Kevin Lin:
     - 'https://kevinl.info'
   Just the Class on GitHub:
-    - 'https://github.com/courtneykirsten/soc331'
+    - 'https://courtneykirsten/github.io/soc331'
 footer_content:
 
 # Collections for website data
