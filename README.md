@@ -1,39 +1,29 @@
----
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
----
+SOC 331: Population and Society
 
-# Just the Class
+Summer 2022
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+**Instructor:** Courtney Allen [ckallen@uw.edu](mailto:ckallen@uw.edu)
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**Class time:** Mondays, Wednesdays, 10:50-1:00
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+**Class location:** [MAR 168](https://www.washington.edu/maps/#!/mar) (way down by Sakuma Viewpoint)
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+**Office Hours:**
 
-## Getting Started
+Thursdays, 11:00-12:00pm on Zoom (<https://washington.zoom.us/j/94350535955>)
 
-Getting started with Just the Class is simple.
+Or by appointment
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## This class is all about Population and Society
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Many social forces are connected to population processes, but what are population processes? The study of population, also known as demography, considers how populations change through processes such as fertility, mortality, and migration. Demographers also consider more complex and emerging population themes, such as aging, kinship, urbanization, and environmental impact of population growth. This class will provide you with the knowledge and tools to understand, discuss, and analyze demographic topics such as population size, age structure, composition, and change. We will use demography to understand terms and basic methods for measuring populations, and we will also use a sociological lens to critically think about the uses of demography and how demography is everywhere around us.
 
-### Local development environment
+By the end of this class, you will be able to integrate a demographic perspective into the study of social, political, environmental, and economic issues and you will have an expanded set of skills as a social scientist. Course materials and class discussion will help you to become a more informed consumer of news and political reports about issues related to population problems. This class will focus both on forming basic demographic analysis skills as well as strengthening critical reading and writing abilities.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+No prior knowledge of sociology or population studies is assumed.
+
+## Class objectives
+
+- Understand basic demographic measures and their components
+- Be able to identify core demographic concepts and processes in current events
+- Demonstrate ability to think analytically about the connection between population and society
