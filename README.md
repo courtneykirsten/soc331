@@ -10,7 +10,7 @@ Summer 2022
 
 **Office Hours:**
 
-Thursdays, 11:00-12:00pm on Zoom (<https://washington.zoom.us/j/94350535955>)
+Thursdays, 11:00-12:00pm on Zoom
 
 Or by appointment
 
