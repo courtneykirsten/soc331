@@ -1,1 +1,71 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: SOC 331 Population and Society
+tagline: test
+description:  test
+author: Courtney Allen
+baseurl: '/soc331' # the subpath of your site, e.g. /blog
+url: 'https://courtneykirsten.github.io'
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Kevin Lin:
+ #   - 'https://kevinl.info'
+  Just the Class on GitHub:
+  #  - 'https://courtneykirsten.github.io/soc331'
+footer_content:
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+liquid:
+  error_mode: strict
+  strict_filters: true
 
