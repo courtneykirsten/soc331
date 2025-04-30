@@ -11,8 +11,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SOC 331: Population and Society
-tagline:
-description: 
+tagline: test
+description:  test
 author: Courtney Allen
 baseurl: '/soc331' # the subpath of your site, e.g. /blog
 url: 'https:/courtneykirsten.github.io'
